@@ -1,0 +1,7 @@
+Dentro del trabajo con Git
+
+hay varias pakabras comunes
+push significa enviar mis cambios la repositorio remoto
+pull significa actualizar mi repositorio loca
+
+COMMIT singiifica indicar el control de versiones los cambios hechos definitivos
